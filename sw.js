@@ -1,8 +1,8 @@
 //imports
-importScripts('js/sw-utils.js');
+importScripts('sw-utils.js');
 
 
-const STATIC_CACHE= 'static-v4';
+const STATIC_CACHE= 'static-v4.5';
 const DYNAMIC_CACHE= 'dynamic-v2';
 const INMUTABLE_CACHE= 'inmutable-v1';
 
